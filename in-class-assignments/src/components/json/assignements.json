@@ -1,0 +1,57 @@
+{
+    "1":{
+        "name":"Terminology-Vocabulary-General",
+        "link":"/first",
+        "type":"i"
+     },
+    "2":{
+        "name":"Mobile App Development Process/Web App",
+        "link":" ",
+        "type":"i"
+    },
+    "3":{
+        "name":"Git Familiarity",
+        "link":"https://github.com/luciaabramzon/clone/tree/main",
+        "type":"i"
+    },
+    "4":{
+        "name":"JavaScript ES6",
+        "link":"/four",
+        "type":"i"
+    },
+    "5":{
+        "name":"Refactoring: Semantic HTML and CSS",
+        "link":"https://replit.com/@LuciaAbramzon/Semantic-HTML#style.css",
+        "type":"e"
+    },
+    "6":{
+        "name":"Debugging:Broken Table",
+        "link":"https://replit.com/@LuciaAbramzon/Broken-Table#styles.css",
+        "type":"e"
+    },
+    "7":{
+        "name":"Debugging: Broken Link",
+        "link":"https://replit.com/@LuciaAbramzon/Fix-Links#index.html",
+        "type":"e"
+    },
+    "8":{
+        "name":"Introduction to JavaScript Basics",
+        "link":"/eight",
+        "type":"i"
+    },
+    "9":{
+        "name":"DOM Manipulation",
+        "link":"http://127.0.0.1:5500/in-class-assignments/DomManipulation/form.html",
+        "type":"e"
+    },
+    "10":{
+        "name":"IBG institue Blog",
+        "link":"",
+        "type":"e"
+    },
+    "11":{
+        "name":"Third Party APIs",
+        "link":"/eleven",
+        "type":"i"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "1":{
+        "name":"Let Vs Var Vs const",
+        "definition":"Variables declare with the var keyword are scope to the function, Let are scope to the block in wich the variable is defined. Const is used to define constant, as variables declare with let are only accesible in the block they are defined. We use let only when we need to redifine a variable "
+    },
+    "2":{
+        "name":"Objects",
+        "definition":"Objects in JavaScripts are collections of key value pairs"
+    },
+    "3":{
+        "name":"The this keyword and its behaviors",
+        "definition":"This always returns a reference to the current object. The value of this is determined by how a function is called. If you called a function as a method in an object this will always return a reference to that object, however, if you call a function as a stand alone object or outside of an object, this will return the global object which is the window object in browser.If the strict mode is enabled it will return undifined"
+    },
+    "4":{
+        "name":"Binding this",
+        "definition":"With the bind method we can set the value of this permanently."
+    },
+    "5":{
+        "name":"Arrow Functions",
+        "definition":"The arrow function is just as the functions before ES6 but the syntax is cleaner,more compact and easier to read."
+    },
+    "6":{
+        "name":"Arrow Functions and this",
+        "definition":"Arrow functions don't rebind this.In arrow functions the this keyword inherits the context in which the code is defined."
+    },
+    "7":{
+        "name":"Array.map method",
+        "definition":"Map method is used to render arrays as a list of items."
+    },
+    "8":{
+        "name":"Object Destructuring",
+        "definition":"Destructruing objects is used to make code more cleaner. Destructuring syntax {}. Inside de {} we add the name of the target properties and set to the object we want to destructre."
+    },
+    "9":{
+        "name":"Spread Operator",
+        "definition":"The spread operator is represented using ... and it brings each individual item of the array. Using the spread operator we can also easily clone an array. The spread operator can also be used in objects."
+    },
+    "10":{
+        "name":"Classes",
+        "definition":"Classes are used when we have an object with at least one method. In classes the first letter of every word should be uppercase.In classes we use a special method called 'constructor'. To call clases is important to call them with the 'new' keyword"
+    },
+    "11":{
+        "name":"Inheritance",
+        "definition":"Inheritance allows objects to inherit properties and methods from other objects (parents). To inherit in clasess we can use the method extends and in the constructor super"
+    },
+    "12":{
+        "name":"Modules",
+        "definition":"Splitting the code in different files is called a modularity, and each file is called a module. Working with modules is easier to mantian.The objects define in a module are private so, in order to make them public we need to export them and import them on other modules"
+    },
+    "13":{
+        "name":"Name and Default Exports",
+        "definition":"When we export one or mode objects from a module is called named exports. Default export is the main object that is exported from a module. We typically use default export if there is only a single object that we want to export. When we import named exports we need {}, with default exports we don't need {}. We can have named exports and default exports on the same module"
+    }
+}

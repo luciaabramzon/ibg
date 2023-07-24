@@ -1,0 +1,46 @@
+h1,h2{
+    text-align: center;
+    color:cadetblue;
+    margin:10px;
+}
+
+form{
+    margin: 30px;
+    width: 50%;
+}
+
+#posts{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 30px;
+}
+
+.post{
+    border:1px solid black;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.likes{
+    display: flex;
+    flex-direction: row;
+}
+
+.postButton{
+    height: 25%;
+    margin: 10px;
+}
+
+.likes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

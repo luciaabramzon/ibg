@@ -1,0 +1,110 @@
+{
+    "1":{
+        "name":"Computer",
+        "definition":"A computer is an electronic device used around the world that can store and process information and perform different tasks"
+    },
+   "2":{
+        "name":"Compute",
+        "definition":"Is a verb that refers to the act of performing math or logic calculations using a computer or any computing device"
+   },
+   "3":{
+        "name":"Hardware",
+        "definition":"The hardware reffers to the components from the computer that you can touch"
+   },
+   "4":{
+        "name":"Software",
+        "definition":"Are those components of the computer that you cannot touch such as the operating system, programs, etc"
+   },
+   "5":{
+        "name":"Optical Character Recognition",
+        "definition": "Technology used to converted documents that have been scanned or photograph into editable documents"
+   },
+   "6":{
+        "name":"Network",
+        "definition":"Devices that are connected to each other and can share resources with each other"
+   },
+   "7":{
+        "name":"Internet vs Intranet",
+        "definition":"Internet is the global network that connect and comunicate computers worldwide, while an Intranet is a private network that shares information only among the members"
+   },
+   "8":{
+        "name":"Search Engine",
+        "definition":"Is a program or web site that allows users to search for information on the internet such as Google"
+   },
+   "9":{
+        "name":"Browser",
+        "definition":"Is a software application used to acces and view website such as Safari or Google Chrome"
+   },
+   "10":{
+        "name":"Agile Software Development",
+        "definition":"Is an iterative and flexible approach to software development that emphasizes collaboration, adaptability and delivering working software in short iterations"
+   },
+   "11":{
+        "name":"API (application programming interface)",
+        "definition":"Set of rules and protocoles that allows different software applications to communicate and interact with each other"
+   },
+   "12":{
+        "name":"Cache",
+        "definition":"Stores different access data for quick retrieval"
+   },
+   "13":{
+        "name":"Scrum",
+        "definition":"Agile project managment framework that promotes collaboration, flexibility and iterative development. It divides work into small and more managable tasks called sprints"
+   },
+   "14":{
+        "name":"JavaScript",
+        "definition":"Is a programming language used for developing interactive web pages and web applications"
+   },
+   "15":{
+        "name":"HTML(Hypertext Markup Language)",
+        "definition":"Standard markup language used for creating the structure and content of web pages"
+   },
+   "16":{
+        "name":"CSS(Cascading Style Sheets)",
+        "definition":"Language used to describe the presentation, appearance  and visual aspects of HTML elements on a web page."
+   },
+   "17":{
+        "name":"React",
+        "definition":"JavaScript library for building user interfaces. It allows developers to create reusable UI components and efficiently manage the state and rendering of the application."
+   },
+   "18":{
+        "name":"React Native",
+        "definition":"Framework or building mobile applications using JavaScript and React. It allows developers to write code once and deploy it on multiple platforms, such as iOS and Android. "
+   },
+   "19":{
+        "name":"AWS (Amazon Web Services)",
+        "definition":"Cloud computing platform provided by Amazon that offers various services and tools for storage, computing power, database management, and more."
+   },
+   "20":{
+        "name":"MVP (Minimum Viable Product)",
+        "description":"Development strategy that focuses on building a basic version of a product with essential features to gather feedback and validate its viability."
+   },
+   "21":{
+        "name":"SDLC (Software Development Life Cycle)",
+        "definition":"Structured approach to software development that consists of several phases, including requirements gathering, design, coding, testing, deployment, and maintenance."
+   },
+   "22":{
+        "name":"Sprints",
+        "definition":"Short periods in agile software development where a team focuses on delivering specific tasks."
+   },
+   "23":{
+        "name":"Web3",
+        "definition":"'The next generation of internet', it aims to create decentralized web experience using blockchain, cryptocurrencies and peer-to-peer technology."
+   },
+   "24":{
+        "name":"Blockchain",
+        "definition":"Decentralized digital ledger that records transactions across multiple computers. It is supposed to provide transparency, security, and immutability for various applications, including cryptocurrencies"
+   },
+   "25":{
+        "name":"ChatGPT",
+        "definition":"Artificial intelligence model develop by OpenAi"
+   },
+   "26":{
+        "name":"Additional computer terms 1",
+        "definition":"MVC,Algorithm,Data Structure,Conditional Statement, Database, Endpoints, Front-End, Back-End, Framework, Library,Debugging, Version Control,Responsive Design"
+   },
+   "27":{
+          "name":"Additional computer terms 2",
+          "definition":"Variable, Loop, Function,Object-Oriented Programming, Testing, Agile Methodologies,Mobile App Development,Cross-platform Development,Cybersecurity,Cloud Computing,Machine Learning,AI"
+   }
+}
