@@ -4,6 +4,7 @@ import First from './assignments/First';
 import Four from './assignments/Four';
 import Eight from './assignments/Eight';
 import Eleven from './assignments/Eleven';
+import App from '../components/assignments/debbuging/broken-react-state/src/App'
 const Rout=()=>{
 return(
   <BrowserRouter>
@@ -13,6 +14,7 @@ return(
     <Route exact path='four' element={<Four/>}/>
     <Route exact path='/eight' element={<Eight/>}/>
     <Route exact path='/eleven' element={<Eleven/>}/>
+    <Route exact path='twelve' element={<App/>}/>
   </Routes>
   </BrowserRouter>
 )
